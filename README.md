@@ -43,9 +43,9 @@ AI Developer Intern
    pip install -r requirements.txt
 
 2. Run the script:
-    python app.py
+   python resumesum.py
 
-3. Replace example_resume.pdf with any resume PDF you like.
+4. Replace example_resume.pdf with any resume PDF you like.
 
 Tech Stack:
 
